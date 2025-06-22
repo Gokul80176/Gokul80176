@@ -12,7 +12,8 @@
       </ul>
     </td>
     <td>
-      <iframe src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN5Mmp4amRtM3Nla3R1OTZoMGs5YThqdzdydW01MWd0bTNpcmJ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif width="300" height="300" frameBorder="0" allowFullScreen></iframe>
+<img align="right" alt="Working Animation" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN5Mmp4amRtM3Nla3R1OTZoMGs5YThqdzdydW01MWd0bTNpcmJ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
     </td>
   </tr>
 </table>
