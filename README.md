@@ -1,5 +1,21 @@
-# 💫 About Me:
-A passionate Flutter Mobile Application Developer.<br>🔭 I’m currently working on MY SELF GROWTH<br>👯 I’m looking to collaborate on ANYONE<br>🌱 I’m currently learning FLUTTER <br>💬 Ask me about ANYTHING<br>📫 How to reach me gokulsoffl@gmail.com<br>👨‍💻 All of my projects are available at https://sgokul.vercel.app/<br>
+<table>
+  <tr>
+    <td>
+      <p>A passionate Flutter Mobile Application Developer.</p>
+      <ul>
+        <li>🔭 I’m currently working on <strong>MY SELF GROWTH</strong></li>
+        <li>👯 I’m looking to collaborate on <strong>ANYONE</strong></li>
+        <li>🌱 I’m currently learning <strong>FLUTTER</strong></li>
+        <li>💬 Ask me about <strong>ANYTHING</strong></li>
+        <li>📫 How to reach me: <a href="mailto:gokulsoffl@gmail.com">gokulsoffl@gmail.com</a></li>
+        <li>👨‍💻 All of my projects are available at: <a href="https://sgokul.vercel.app/" target="_blank">sgokul.vercel.app</a></li>
+      </ul>
+    </td>
+    <td>
+      <iframe src="https://lottie.host/?file=cd8b0e38-babb-4dc2-8f43-12ac81df7d02/lottie.json" width="300" height="300" frameBorder="0" allowFullScreen></iframe>
+    </td>
+  </tr>
+</table>
 
 
 # 💻 Tech Stack:
