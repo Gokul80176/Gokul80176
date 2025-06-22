@@ -12,7 +12,7 @@
       </ul>
     </td>
     <td>
-      <iframe [src="https://lottie.host/?file=cd8b0e38-babb-4dc2-8f43-12ac81df7d02/lottie.json"](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2gxbGo2OTE2NDJjdDVlN3ZvZ25vcThmZG92aWJoMzRwZDRxZjY1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif) width="300" height="300" frameBorder="0" allowFullScreen></iframe>
+      <iframe src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN5Mmp4amRtM3Nla3R1OTZoMGs5YThqdzdydW01MWd0bTNpcmJ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif width="300" height="300" frameBorder="0" allowFullScreen></iframe>
     </td>
   </tr>
 </table>
