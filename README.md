@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <td>
       <p>A passionate Flutter Mobile Application Developer.</p>
